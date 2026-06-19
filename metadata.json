@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi Rapor SD",
+  "description": "Aplikasi pengisian dan cetak rapor Sekolah Dasar (SD) Kurikulum Merdeka berbasis web.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
